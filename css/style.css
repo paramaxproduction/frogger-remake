@@ -1,3 +1,15 @@
 body {
     text-align: center;
+    font-family: 'fira';
+    color: #ECF0F1;
+    font-weight: bold;
+    font-size: 28px;
+    background-color: #6C7A89;
+}
+
+div {
+	position: relative;
+	margin: 0 auto;
+	width: 505px;
+	text-align: left;
 }
